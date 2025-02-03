@@ -7,8 +7,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 
-### Youtube Video Url: https://youtu.be/UNF5JdUEfh8
-### Linkedin Article: https://www.linkedin.com/pulse/deploying-three-tier-devsecops-web-application-aws-eks-rashid-x7f9f/
+
 
 ![1i (71)](https://github.com/user-attachments/assets/44409392-10fa-4eaf-9a1e-671a904b4e1f)
 
