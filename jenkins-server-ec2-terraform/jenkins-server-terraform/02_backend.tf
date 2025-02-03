@@ -11,7 +11,7 @@ terraform {
     key            = "three-tier-devdecops-project/jenkins-server-terraform/terraform.tfstate"
     
     # The DynamoDB table used for state locking to prevent concurrent state changes.
-    dynamodb_table = "lock-files"
+    dynamodb_table = "lock-file"
     
     # Ensures the state file is encrypted at rest in the S3 bucket.
     encrypt        = true
