@@ -1,6 +1,6 @@
 # How to Setup & install Jenkins Server on AWS EC2 using Terraform
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)]([https://www.linkedin.com/in/muhammad-rashid-daha/](https://www.linkedin.com/in/evrardo-lazube-b0b4b294/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/evrardo-lazube-b0b4b294/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codewithmuh)
 [![GitHub](https://img.shields.io/github/stars/codewithmuh.svg?style=social)](https://github.com/weblaz)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
